@@ -1,0 +1,4 @@
+Predict survivors from the Titanic tragedy
+
+We are provided with information about people on the Titanic. 
+Based on the given data, we will apply machine learning algorithms to predict which passengers survived the tragedy.
